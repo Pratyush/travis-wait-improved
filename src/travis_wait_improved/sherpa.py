@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# coding=utf-8
 
 """Helper tool to work around stdout timout of Travis-CI.
 
